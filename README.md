@@ -17,4 +17,8 @@
 - `app.js` — 검색/필터/즐겨찾기 동작
 - `data.js` — 노션 자료 목록 스냅샷
 
+## 배포
+
+GitHub Pages의 GitHub Actions 배포 방식을 사용합니다.
+
 > 참고: 이 저장소가 public이면 자료 제목과 노션 링크도 공개됩니다.
